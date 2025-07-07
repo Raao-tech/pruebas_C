@@ -2,4 +2,4 @@
 
 
 # Ejecuta el comando git log para obtener los últimos commits
-git log  -n 5
+git log  -n 5 --pretty=format:%H
